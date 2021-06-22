@@ -1,0 +1,4 @@
+aws/example/s3/Example.java
+ aws.example.s3.Example
+aws/example/s3/SaveFile.java
+ aws.example.s3.SaveFile

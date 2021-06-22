@@ -1,0 +1,31 @@
+:Downloading file1.csv from S3 bucket prueba-uno-bucket...
+Leyendo archivo...
+^- PlayStation 4, 340.95, https://www.amazon.es/PlayStation-4-PS4-Consola-500GB/dp/B013U9CW8A
+l- Televisor Samsung, 41.95, https://www.amazon.es/Raspberry-Modelo-GHz-Quad-core-Cortex-A53/dp/B01CD5VC92/
+h- Nevera Haced, 421.36, https://www.amazon.es/Gigabyte-Brix-Bareb%C3%B3n-Serial-SO-DIMM/dp/B00HFCTUPM/
+‹{MD5OfMessageBody: 8f09c1070aeb238f4ef06b5ab183d10e,MessageId: f9044be5-6d5f-4e69-a8f0-3968fe08c167,SequenceNumber: 18862573567631343872}
+$Archivo descargado y enviado a SQS
+:Downloading file2.csv from S3 bucket prueba-uno-bucket...
+Leyendo archivo...
+- Nombre,Ciudad
+- Luisa,Pasto
+- Michael,Pasto
+- Canela,Bogota
+- Negra, Cartagena
+- Tabata, San Andres
+- Ramona, Barranquilla
+‹{MD5OfMessageBody: b8adea3fd9f3475c494f58e149c5eed7,MessageId: b624e290-7943-41df-8eb9-77fc87e01956,SequenceNumber: 18862573568243951616}
+$Archivo descargado y enviado a SQS
+:Downloading file3.csv from S3 bucket prueba-uno-bucket...
+Leyendo archivo...
+- Persona, Comida
+- Luisa,Bistec
+- Michael,Hamburguesa
+- Canela,Pollo
+- Negra, Carne
+- Tabata, Galletas
+- Ramona, Concentrado
+‹{MD5OfMessageBody: b6a2de0acda4fc3f173f1092d56e613b,MessageId: 364ade43-c6fe-4313-a334-47ce2be4fc6c,SequenceNumber: 18862573569159152128}
+$Archivo descargado y enviado a SQS
+:Downloading file4.csv from S3 bucket prueba-uno-bucket...
+"La clave especificada no existe.
